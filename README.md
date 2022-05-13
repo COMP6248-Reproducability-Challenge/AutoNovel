@@ -19,4 +19,4 @@ python auto_novel.py
 ```
 
 ## RESULT
-![image]()
+![image](https://github.com/COMP6248-Reproducability-Challenge/AutoNovel/blob/main/res.png)
