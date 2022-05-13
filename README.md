@@ -20,3 +20,6 @@ python auto_novel.py
 
 ## RESULT
 ![image](https://github.com/COMP6248-Reproducability-Challenge/AutoNovel/blob/main/res.png)
+## reference
+[AutoNovel](https://github.com/k-han/AutoNovel)
+[FeatureLearningRotNet](https://github.com/gidariss/FeatureLearningRotNet)
