@@ -9,7 +9,7 @@ Automatically Discovering and Learning New Visual Categories with Ranking Statis
 conda env create -f autonovel.yaml
 ```
 ```bash
-conda activate autonovel
+conda activate myenv
 ```
 ```bash
 python selfsupervised.py
