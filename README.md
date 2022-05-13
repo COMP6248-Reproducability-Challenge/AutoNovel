@@ -18,3 +18,5 @@ python selfsupervised.py
 python auto_novel.py
 ```
 
+## RESULT
+![image]()
